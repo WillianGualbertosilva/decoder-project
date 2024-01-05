@@ -12,4 +12,10 @@ Boas Práticas e padrões na modelagem de uma Arquitetura de Microservices compl
 
 - Modelagem Arquitetura de Microservices
 - Microservices Patterns
+  · ApiGateway/load balance
+  · Service Registry Discovery Pattern
+  · Broker Pattern/RabbitMQ
+  · Circuit Breaker Pattern
+  · Global Config Management Pattern
+  · Authentication e Authorization com Json Web Token (JWT)
 - Comunicações entre Microservices sincrono com restTemplate e assincrono/orientado a eventos com RabbitMQ
