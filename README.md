@@ -10,6 +10,6 @@ Boas Práticas e padrões na modelagem de uma Arquitetura de Microservices compl
 
 ## Aulas
 
-- [Modelagem Arquitetura de Microservices](/aula-01.md)
-- [Microservices Patterns](/aula-02.md)
-- [Comunicações entre Microservices](/aula-03.md)
+- Modelagem Arquitetura de Microservices
+- Microservices Patterns
+- Comunicações entre Microservices sincrono com restTemplate e assincrono/orientado a eventos com RabbitMQ
