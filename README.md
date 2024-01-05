@@ -12,7 +12,7 @@ Boas Práticas e padrões na modelagem de uma Arquitetura de Microservices compl
 
 - Modelagem Arquitetura de Microservices
 - Microservices Patterns
-  · ApiGateway/load balance
+  -· ApiGateway/load balance
   · Service Registry Discovery Pattern
   · Broker Pattern/RabbitMQ
   · Circuit Breaker Pattern
